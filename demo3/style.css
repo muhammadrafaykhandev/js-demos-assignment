@@ -1,0 +1,12 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+body { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+.card { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); text-align: center; width: 320px; }
+h1 { color: #333; font-size: 24px; margin-bottom: 5px; }
+.subtitle { color: #666; font-size: 14px; margin-bottom: 20px; }
+.count-display { font-size: 64px; font-weight: bold; color: #764ba2; margin: 20px 0; }
+.btn-group { display: flex; gap: 10px; justify-content: center; }
+.btn { border: none; padding: 12px 20px; border-radius: 8px; font-size: 18px; font-weight: bold; cursor: pointer; transition: 0.2s; color: white; }
+.btn-inc { background-color: #28a745; }
+.btn-dec { background-color: #dc3545; }
+.btn-reset { background-color: #6c757d; }
+.btn:hover { transform: translateY(-2px); opacity: 0.9; }
