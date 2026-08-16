@@ -1,0 +1,20 @@
+[
+  {
+    "question": "JavaScript mein closures kya hotay hain?",
+    "options": [
+      "Functions jo outer scope variables ko access kar sakay",
+      "CSS style properties",
+      "HTML elements"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Promises ka primary function kya hai?",
+    "options": [
+      "Styling elements",
+      "Asynchronous operations handle karna",
+      "Database create karna"
+    ],
+    "answer": 1
+  }
+]
